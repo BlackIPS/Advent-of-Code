@@ -1,36 +1,58 @@
 # 🎄👨‍💻 BlackIPS Advent of Code solutions
 
-I chose to participate in the Advent of Code (www.adventofcode.com) event in 2022. To improve my Rust skills I'd choosen
-to write the solutions mainly in Rust, but try to offer solutions for other programming languages as well. 
+I chose to participate again in the Advent of Code (www.adventofcode.com) event for the second year in a row, after I'd had to cancel my first try
+2022 after just six days to my health conditions. I'd never came back to complete the other puzzles, but 2023 will be the beginning of something new
+for me - hopefully.
 
-## 🎯 Goals
-I don't have any ambitious goals to achieve, so I try to solve all puzzles with no additional libraries if possible. But
-first of all I want to improve my Rust skills, become more confident writing code in a yet unknown language and have 
-some fun.
+## 💬 Contributing
+If you have questions or spotted a typo/bug/mistake, you are welcome to submit a new issue or a pull request with a fix for the specific issue.
 
-Therefore, I won't spend much time in optimizing or benchmarking my code neither will I spend much time in proper or 
-extensive error handling (but which I definitely should do some time...).
+## ⚡ 2023 solutions
+This is a quick overview of all achieved stars in the 2023 competition. My solutions and a detailed description how to run them can be found in the
+[2023](./2023) directory.
 
-## 📆 Solutions Quick Access 2022
+| Day    | Part A | Part B |
+|--------|:------:|:------:|
+| Day 01 |        |        |
+| Day 02 |        |        |
+| Day 03 |        |        |
+| Day 04 |        |        |
+| Day 05 |        |        |
+| Day 06 |        |        |
+| Day 07 |        |        |
+| Day 08 |        |        |
+| Day 09 |        |        |
+| Day 10 |        |        |
+| Day 11 |        |        |
+| Day 12 |        |        |
+| Day 13 |        |        |
+| Day 14 |        |        |
+| Day 15 |        |        |
+| Day 16 |        |        |
+| Day 17 |        |        |
+| Day 18 |        |        |
+| Day 19 |        |        |
+| Day 20 |        |        |
+| Day 21 |        |        |
+| Day 22 |        |        |
+| Day 23 |        |        |
+| Day 24 |        |        |
+| Day 25 |        |        |
 
-| Mon                               | Tue                               | Wed               | Thu                               | Fri                               | Sat                               | Sun                               |
-|-----------------------------------|-----------------------------------|-------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|                                   |                                   |                   | **1.**<br>[Rust](2022/Rust/day01) | **2.**<br>[Rust](2022/Rust/day02) | **3.**<br>[Rust](2022/Rust/day03) | **4.**<br>[Rust](2022/Rust/day04) |
-| **5.**<br>[Rust](2022/Rust/day05) | **6.**<br>[Rust](2022/Rust/day06) | **7.**<br>&nbsp;  | **8.**<br>&nbsp;                  | **9.**<br>&nbsp;                  | **10.**<br>&nbsp;                 | **11.**<br>&nbsp;                 |
-| **12.**<br>&nbsp;                 | **13.**<br>&nbsp;                 | **14.**<br>&nbsp; | **15.**<br>&nbsp;                 | **16.**<br>&nbsp;                 | **17.**<br>&nbsp;                 | **18.**<br>&nbsp;                 |
-| **19.**<br>&nbsp;                 | **20.**<br>&nbsp;                 | **21.**<br>&nbsp; | **22.**<br>&nbsp;                 | **23.**<br>&nbsp;                 | **24.**<br>&nbsp;                 | **25.**<br>&nbsp;                 |
 
+## 🕰️ History
+### 🚽 2022 - My first appearance
+As mentioned before, I'd started solving puzzles in my very first AoC event in 2022. My main goal was to get used to Rust 🦀 and improve my low skills
+in this very new language. I'd had to give up after just six days and never got back to solve the remaining puzzles.
 
-## ▶ How to run a testcase / a solution (Rust)
-Every Rust solutions contains a set of test cases, which verifies that the functions should work as described. To run
-a solution, `cd` in its directory and invoke either `cargo test` or `cargo run` (or both).
+You will find my solutions in the [2022](./2022/Rust) folder. I'd planed to solve the puzzles in Rust and TypeScript but failed miserable in
+completing both.
 
-```shell
-cd day01
-cargo test
-cargo run
-```
+### 💪🏼 2023 - Come back stronger
+In 2023 I'd made progress in learning Rust, having fun with it and got along with its quirks. So I'd like to set focus on some specific topics to
+improve my knowledge in testing and tracing, want to get along with documenting according to cargo-doc standard and improve organizing my toolchain
+and projects.
 
-## 🗨 Feedback
-If you have questions or suggestions to improve my code, feeld free to open an issue and ask or provide me your feedback.
-I'm programming in Rust just for a couple of weeks and will be happy to receive any suggestions! 
+I'm focussing on Rust solutions only, mainly without help of third party libraries if possible. Please check out my [2023](./2023) folder to find my
+solutions.
+ 

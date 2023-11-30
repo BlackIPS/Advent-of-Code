@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = ["day*", "boilerplate"]
+
+[workspace.dependencies]
+tracing = "0.1.40"
+tracing-subscriber = "0.3.18"
+thiserror = "1.0.50"
+nom = "7.1.3"

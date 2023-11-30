@@ -1,0 +1,27 @@
+[private]
+default:
+    @echo ""
+    @echo " BlackIPS AoC2023 puzzle boilerplate"
+    @echo "================================================================================"
+    @just --list
+    @echo ""
+    @echo "Parameter:"
+    @echo "    day    Please use two digits with leading zero, e.g. '09' for day 9"
+    @echo "    part   mostly 1 or 2"
+    
+
+# Watch for changes and run tests and linting (used during development)
+watch day:
+    cargo watch -x "check -p day-{{day}}" -s "just test -p day-{{day}}" -s "just lint day-{{day}}"
+
+# run tests for this specific day
+test day:
+    cargo test -p day-{{day}}
+
+# get suggestions and advanced warnings to improve code quality
+lint day:
+    cargo clippy -p day-{{day}}
+
+# run the given part of the daily puzzle to solve it
+run day part:
+    cargo run -p day-{{day}} --bin part{{part}}
