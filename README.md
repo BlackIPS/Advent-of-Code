@@ -11,33 +11,33 @@ If you have questions or spotted a typo/bug/mistake, you are welcome to submit a
 This is a quick overview of all achieved stars in the 2023 competition. My solutions and a detailed description how to run them can be found in the
 [2023](./2023) directory.
 
-| Day    | Part A | Part B |
-|--------|:------:|:------:|
-| Day 01 |        |        |
-| Day 02 |        |        |
-| Day 03 |        |        |
-| Day 04 |        |        |
-| Day 05 |        |        |
-| Day 06 |        |        |
-| Day 07 |        |        |
-| Day 08 |        |        |
-| Day 09 |        |        |
-| Day 10 |        |        |
-| Day 11 |        |        |
-| Day 12 |        |        |
-| Day 13 |        |        |
-| Day 14 |        |        |
-| Day 15 |        |        |
-| Day 16 |        |        |
-| Day 17 |        |        |
-| Day 18 |        |        |
-| Day 19 |        |        |
-| Day 20 |        |        |
-| Day 21 |        |        |
-| Day 22 |        |        |
-| Day 23 |        |        |
-| Day 24 |        |        |
-| Day 25 |        |        |
+| Day                    | Part A | Part B |
+|------------------------|:------:|:------:|
+| [Day 01](./2023/day01) |   ⭐    |   ⭐    |
+| Day 02                 |        |        |
+| Day 03                 |        |        |
+| Day 04                 |        |        |
+| Day 05                 |        |        |
+| Day 06                 |        |        |
+| Day 07                 |        |        |
+| Day 08                 |        |        |
+| Day 09                 |        |        |
+| Day 10                 |        |        |
+| Day 11                 |        |        |
+| Day 12                 |        |        |
+| Day 13                 |        |        |
+| Day 14                 |        |        |
+| Day 15                 |        |        |
+| Day 16                 |        |        |
+| Day 17                 |        |        |
+| Day 18                 |        |        |
+| Day 19                 |        |        |
+| Day 20                 |        |        |
+| Day 21                 |        |        |
+| Day 22                 |        |        |
+| Day 23                 |        |        |
+| Day 24                 |        |        |
+| Day 25                 |        |        |
 
 
 ## 🕰️ History
