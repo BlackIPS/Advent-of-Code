@@ -13,13 +13,13 @@ tracing library. Maybe I will add some other nice features and goals during the 
 
 ## 📆 Solutions Quick Access 2023
 
-| Mon               | Tue               | Wed               | Thu               | Fri                       | Sat               | Sun               |
-|-------------------|-------------------|-------------------|-------------------|---------------------------|-------------------|-------------------|
-|                   |                   |                   |                   | **1.**<br>[Rust](./day01) | **2.**<br>&nbsp;  | **3.**<br>&nbsp;  |
-| **4.**<br>&nbsp;  | **5.**<br>&nbsp;  | **6.**<br>&nbsp;  | **7.**<br>&nbsp;  | **8.**<br>&nbsp;          | **9.**<br>&nbsp;  | **10.**<br>&nbsp; |
-| **11.**<br>&nbsp; | **12.**<br>&nbsp; | **13.**<br>&nbsp; | **14.**<br>&nbsp; | **15.**<br>&nbsp;         | **16.**<br>&nbsp; | **17.**<br>&nbsp; |
-| **18.**<br>&nbsp; | **19.**<br>&nbsp; | **20.**<br>&nbsp; | **21.**<br>&nbsp; | **22.**<br>&nbsp;         | **23.**<br>&nbsp; | **24.**<br>&nbsp; |
-| **25.**<br>&nbsp; |                   |                   |                   |                           |                   |                   |
+| Mon               | Tue               | Wed               | Thu               | Fri                       | Sat                       | Sun               |
+|-------------------|-------------------|-------------------|-------------------|---------------------------|---------------------------|-------------------|
+|                   |                   |                   |                   | **1.**<br>[Rust](./day01) | **2.**<br>[Rust](./day02) | **3.**<br>&nbsp;  |
+| **4.**<br>&nbsp;  | **5.**<br>&nbsp;  | **6.**<br>&nbsp;  | **7.**<br>&nbsp;  | **8.**<br>&nbsp;          | **9.**<br>&nbsp;          | **10.**<br>&nbsp; |
+| **11.**<br>&nbsp; | **12.**<br>&nbsp; | **13.**<br>&nbsp; | **14.**<br>&nbsp; | **15.**<br>&nbsp;         | **16.**<br>&nbsp;         | **17.**<br>&nbsp; |
+| **18.**<br>&nbsp; | **19.**<br>&nbsp; | **20.**<br>&nbsp; | **21.**<br>&nbsp; | **22.**<br>&nbsp;         | **23.**<br>&nbsp;         | **24.**<br>&nbsp; |
+| **25.**<br>&nbsp; |                   |                   |                   |                           |                           |                   |
 
 ## ⛓️ Dependencies
 

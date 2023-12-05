@@ -14,7 +14,7 @@ This is a quick overview of all achieved stars in the 2023 competition. My solut
 | Day                    | Part A | Part B |
 |------------------------|:------:|:------:|
 | [Day 01](./2023/day01) |   ⭐    |   ⭐    |
-| Day 02                 |        |        |
+| [Day 02](./2023/day02) |   ⭐    |   ⭐    |
 | Day 03                 |        |        |
 | Day 04                 |        |        |
 | Day 05                 |        |        |
